@@ -43,7 +43,9 @@
         "name": "Rubik",
         "css": "'Rubik', sans-serif"
       }
-    ]
+    ],
+    "favicon": "@PROJECT_PATH@/assets/images/sbcover-small-128x188-1.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
