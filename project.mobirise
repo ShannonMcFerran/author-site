@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page6.html",
+    "currentPage": "deadline.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 77,
     "versionPublish": "4.7.6",
@@ -3835,7 +3835,7 @@
         }
       ]
     },
-    "page6.html": {
+    "deadline.html": {
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Deadline",
