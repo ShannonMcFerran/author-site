@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page5.html",
+    "currentPage": "event.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 81,
     "versionPublish": "4.7.6",
@@ -3235,9 +3235,9 @@
         }
       ]
     },
-    "page5.html": {
+    "event.html": {
       "settings": {
-        "meta_descr": "Site Maker Description",
+        "meta_descr": "Synchro Boy Launch Event",
         "title": "News &amp; Events",
         "order": 1
       },
