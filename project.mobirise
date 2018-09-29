@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "synchroboy.html",
+    "currentPage": "synchroboyevent.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 83,
     "versionPublish": "4.7.6",
@@ -3268,7 +3268,7 @@
         }
       ]
     },
-    "event.html": {
+    "synchroboyevent.html": {
       "settings": {
         "meta_descr": "Synchro Boy Launch Event",
         "title": "News &amp; Events",
