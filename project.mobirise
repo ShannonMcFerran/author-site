@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page6.html",
+    "currentPage": "jdf.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 90,
     "versionPublish": "4.7.6",
@@ -3883,7 +3883,7 @@
         }
       ]
     },
-    "page6.html": {
+    "jdf.html": {
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "JDF",
